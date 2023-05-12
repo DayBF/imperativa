@@ -54,5 +54,6 @@ console.log(`Hola ${nombre1} ${apellido1} como estas? $`);
 
 //logicos
 //comparacion
-// comentario
-// otro
+// hola
+hellou;
+ghj;
